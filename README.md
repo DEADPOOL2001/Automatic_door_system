@@ -1,1 +1,2 @@
-# Automatic_door_system
+### Automatic_door_system
+Our project is based on the automatic door system services, which help us to dynamically control our door properties(attributes). It also maintains a communication between user and admin through feedbacks and mails. We have used threads and synchronization for the random number generation part, so as to synchronize main thread with the created threads. Emails are the key feature of our project we can get feedbacks of user through mail and also emergency messages.
