@@ -10,7 +10,7 @@ public class mail {
 	mail(String s, String s1){
 		Date date = new Date();
 	  	  try {
-	      	  Email email =new Email("nimishupadhyay00@gmail.com","nimish2001");
+	      	  Email email =new Email("nimishupadhyay00@gmail.com","xxxxxx");
 	      	  email.setFrom("nimishupadhyay00@gmail.com", "FEEDBACK");
 	      	  email.setSubject("feedback on automatic door system by "+s);
 	      	  
