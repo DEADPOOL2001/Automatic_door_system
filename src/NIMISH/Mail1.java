@@ -3,7 +3,7 @@ import com.email.durgesh.Email;
 public class Mail1 {
       Mail1(int j){
     	  try {
-	      	  Email email =new Email("nimishupadhyay00@gmail.com","nimish2001");
+	      	  Email email =new Email("nimishupadhyay00@gmail.com","xxxxxxx");
 	      	  email.setFrom("nimishupadhyay00@gmail.com", "EMERGENCY");
 	      	  email.setSubject("Emergency at cc3");
 	      	  
